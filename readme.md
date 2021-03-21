@@ -1,2 +1,2 @@
-## Interactive list using recyclerview
-![](app/src/main/res/drawable/task3.gif)
+## Reset list
+![](app/src/main/res/drawable/coding_challenge.gif)
